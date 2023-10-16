@@ -1,0 +1,102 @@
+✅ intro2 pass
+❌ primitive_types4 points 0/1
+✅ variables1 pass
+❌ primitive_types5 points 0/1
+❌ primitive_types6 points 0/1
+✅ variables2 pass
+✅ vecs1 pass
+✅ variables3 pass
+✅ variables4 pass
+✅ vecs2 pass
+✅ variables5 pass
+❌ variables6 points 0/1
+✅ move_semantics1 pass
+✅ functions1 pass
+✅ move_semantics2 pass
+✅ functions2 pass
+✅ move_semantics3 pass
+✅ functions3 pass
+✅ move_semantics4 pass
+✅ functions4 pass
+✅ move_semantics5 pass
+✅ functions5 pass
+✅ move_semantics6 pass
+✅ if1 pass
+✅ structs1 pass
+✅ if2 pass
+✅ structs2 pass
+✅ if3 pass
+✅ structs3 pass
+❌ quiz1 points 0/1
+✅ enums1 pass
+❌ primitive_types1 points 0/1
+❌ primitive_types2 points 0/1
+❌ primitive_types3 points 0/1
+✅ enums2 pass
+❌ traits3 points 0/1
+❌ traits4 points 0/1
+❌ traits5 points 0/1
+✅ enums3 pass
+✅ strings1 pass
+❌ quiz3 points 0/1
+✅ strings2 pass
+✅ lifetimes1 pass
+✅ lifetimes2 pass
+✅ strings3 pass
+✅ lifetimes3 pass
+✅ strings4 pass
+✅ tests1 pass
+✅ modules1 pass
+✅ modules2 pass
+✅ tests2 pass
+✅ modules3 pass
+❌ hashmaps1 points 0/1
+✅ tests3 pass
+❌ hashmaps2 points 0/1
+✅ tests4 pass
+❌ iterators1 points 0/1
+❌ iterators2 points 0/1
+❌ hashmaps3 points 0/1
+❌ quiz2 points 0/1
+❌ iterators3 points 0/1
+❌ iterators4 points 0/1
+❌ iterators5 points 0/1
+❌ options1 points 0/1
+❌ options2 points 0/1
+❌ box1 points 0/1
+❌ options3 points 0/1
+❌ errors1 points 0/1
+❌ rc1 points 0/1
+❌ errors2 points 0/1
+❌ arc1 points 0/1
+❌ cow1 points 0/1
+❌ errors3 points 0/1
+❌ threads1 points 0/1
+❌ errors4 points 0/1
+❌ threads2 points 0/1
+❌ errors5 points 0/1
+❌ threads3 points 0/1
+❌ macros1 points 0/1
+❌ macros2 points 0/1
+❌ macros3 points 0/1
+❌ errors6 points 0/1
+❌ macros4 points 0/1
+❌ generics1 points 0/1
+❌ generics2 points 0/1
+❌ traits1 points 0/1
+❌ traits2 points 0/1
+❌ from_into points 0/1
+❌ from_str points 0/1
+❌ try_from_into points 0/1
+❌ as_ref_mut points 0/1
+✅ tests5 pass
+✅ tests6 pass
+✅ tests7 pass
+✅ tests8 pass
+✅ clippy1 pass
+✅ tests9 pass
+✅ clippy2 pass
+✅ clippy3 pass
+❌ using_as points 0/1
+
+Points: 50/100
